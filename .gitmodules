@@ -1,0 +1,3 @@
+[submodule "osu-stat-tracker-backend"]
+	path = osu-stat-tracker-backend
+	url = https://github.com/TandyN/osu-stat-tracker-backend
